@@ -30,7 +30,7 @@ public class Imp implements calc {
 		return val1 / val2;
 	}
 
-
+//the following function is the main function.
 public static void main(String[] args)
 {
 	
